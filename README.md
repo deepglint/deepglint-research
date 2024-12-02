@@ -1,4 +1,6 @@
 # DeepGlint Research 
+This repository contains implementations and illustrative code to accompany DeepGlint publications. Along with publishing papers to accompany research conducted at DeepGlint, we release open-source data sets, and code to enable the broader research community to engage with our work and build upon it, with the ultimate goal of accelerating scientific progress to benefit society. 
+
 
 ## Project
 * [Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension](https://github.com/deepglint/Croc)
